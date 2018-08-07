@@ -1,2 +1,2 @@
 # Qtalk
-an IM client based on QXmpp and Openfire
+an IM client based on QXmpp and Openfire( with many bugs.  233).
