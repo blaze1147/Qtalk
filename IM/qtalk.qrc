@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>searchIcon.png</file>
+        <file>contactIcon.png</file>
+        <file>addIcon.png</file>
+        <file>Qtalk.png</file>
+        <file>userIcon.png</file>
+        <file>quitIcon.png</file>
+    </qresource>
+</RCC>
